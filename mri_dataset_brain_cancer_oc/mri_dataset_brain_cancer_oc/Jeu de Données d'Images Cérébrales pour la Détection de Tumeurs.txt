@@ -1,0 +1,30 @@
+Description
+
+Ce jeu de données comprend un total de 1500 images :
+
+    1400 images non étiquetées
+
+    100 images étiquetées
+
+Les images étiquetées sont réparties en deux catégories :
+
+    Normal : Images de cerveaux sains.
+
+    Cancer : Images de cerveaux présentant des signes de tumeurs.
+
+Caractéristiques des Images
+
+Toutes les images ont été redimensionnées à une taille standardisée de 512×512 pixels. Cette standardisation assure leur compatibilité avec divers pipelines de traitement d'images et d'apprentissage automatique. Elles sont enregistrées au format d'image courant JPEG (.jpg).
+Applications Potentielles
+
+Ce jeu de données peut être exploité pour un large éventail d'applications, notamment :
+
+    🤖 L'entraînement et l'évaluation de divers modèles d'apprentissage profond (par exemple, DenseNet201, YOLOv8x/s, CNN, ResNet50v2, VGG-16, MobileNetV2).
+
+    🔬 Le développement d'algorithmes de classification d'images pour la détection et la classification des tumeurs cérébrales.
+
+    🧑‍⚕️ La conduite de recherches en analyse d'images médicales et en intelligence artificielle appliquée au domaine de la santé.
+
+Licence
+
+Utilisation libre à des fins académiques.
