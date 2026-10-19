@@ -530,4 +530,4 @@ Le projet ne fournit pas encore :
 10. Faire relire les résultats par des radiologues et suivre un protocole de
     validation avant toute utilisation réelle.
 11. Possibilité de combiner les modèles pour augmenter la fiabilité :
-![image.png](attachment:image.png)
+![pics/Pasted image 20260609130522.png](<pics/Pasted image 20260609130522.png>)
